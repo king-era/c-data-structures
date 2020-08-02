@@ -1,3 +1,4 @@
+//Deque using DLL
 #include<iostream>
 using namespace std;
 class node{
